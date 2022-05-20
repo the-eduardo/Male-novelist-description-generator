@@ -19,4 +19,4 @@
 She had a voice like a bulbous tulip and I wanted to emotionally manipulate her
 ```
 
-- The numvers are the `rand.Seed(time.Now().UnixNano())` that gives a random Int
+- Numbers are the `rand.Seed(time.Now().UnixNano())` that gives it a random Int
