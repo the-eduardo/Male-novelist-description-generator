@@ -10,11 +10,13 @@
 
 ` go run .\main.exe` 
 
+```
 9 
 5
 5
 5
 10
-She had a voice like a bulbous tulip and I wanted to emotionally manipulate her```
+She had a voice like a bulbous tulip and I wanted to emotionally manipulate her
+```
 
 - The numvers are the `rand.Seed(time.Now().UnixNano())` that gives a random Int
