@@ -13,3 +13,8 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+repA.go
+repB.go
+repC.go
+repD.go
+repE.go
