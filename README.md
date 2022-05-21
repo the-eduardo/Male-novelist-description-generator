@@ -4,7 +4,7 @@
 
 <img src = https://repository-images.githubusercontent.com/494432059/3ebae042-1670-4686-bf2b-380b436df9d3>
 
-### It runs entirely in Go
+### It runs entirely in Go and may be used to others memes in the future.
 
 ### Example of output: 
 
