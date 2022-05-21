@@ -11,11 +11,8 @@
 ` go run .\main.exe` 
 
 ```
-9 
-5
-5
-5
-10
+Debug: 21, 21, 21, 21, 21
+
 She had a voice like a bulbous tulip and I wanted to ********** her
 ```
 
